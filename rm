@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+podman stop nginx-server && podman rm nginx-server
